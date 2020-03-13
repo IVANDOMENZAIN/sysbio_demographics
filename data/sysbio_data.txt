@@ -1,0 +1,100 @@
+Name	Category	wet_dry	lab	nationality	gender	region
+Johan Bjšrkeroth	PhD students	wet	JN	Sweden	M	EU
+Christoph Bšrlin	PhD students	wet_dry	JN	Germany	M	EU
+Filip Buric	PhD students	dry	AZ	Romania	M	EU
+Yasaman Dabirian	PhD students	wet	JN	Iran	F	Middle East and Iran
+Iv‡n Domenzain	PhD students	dry	JN	Mexico	M	Latin America
+Veronica Gast	PhD students	wet	JN	Netherlands	F	EU
+Johan Gustaffson	PhD students	dry	JN	Sweden	M	EU
+John Hellgren	PhD students	wet	JN	Sweden	M	EU
+Cheewin Kittikunapong	PhD students	dry	JN	Thailand	M	South/East Asia
+Oliver Konzock	PhD students	wet	JN	Germany	M	EU
+Dimitra Lappa	PhD students	dry	JN	Greece	F	EU
+Feiran Li	PhD students	dry	JN	China	F	South/East Asia
+Gang Li	PhD students	dry	JN	China	M	South/East Asia
+Peishun Li	PhD students	dry	JN	China	M	South/East Asia
+Angelo Limeta	PhD students	dry	JN	Sweden	M	EU
+Dany Liu	PhD students	wet	JN	China	F	EU
+Hao Luo	PhD students	dry	JN	China	M	South/East Asia
+Carl Malina	PhD students	wet_dry	JN	Sweden	M	EU
+Maximilian Otto	PhD students	wet	JN	Germany	M	EU
+Qi Qi	PhD students	wet	JN	China	M	EU
+Patrick Reith	PhD students	wet	SH	Germany	M	EU
+Elzbieta Rembeza	PhD students	wet_dry	ME	Poland	F	EU
+Rassol Saghaleyni	PhD students	dry	JN	Iran	M	Middle East and Iran
+Christos Skrekas	PhD students	wet	FD	Greece	M	EU
+Marta Tous Mohedano	PhD students	wet	JN	Spain	F	EU
+Yanyan Wang	PhD students	wet	ME	China	F	South/East Asia
+Le Yuan	PhD students	dry	JN	China	M	South/East Asia
+Linne …sterberg	PhD students	wet_dry	SH	Sweden	F	EU
+Sinisa Bratulic	PostDocs	dry	JN	Croatia	M	EU
+Lucy Fang	PostDocs	wet	JN	Philipines	F	South/East Asia
+Yu Chen	PostDocs	dry	JN	China	M	South/East Asia
+Jing Fu	PostDocs	wet	JN	China	M	South/East Asia
+Yating Hu	PostDocs	wet	JN	China	F	South/East Asia
+Xiang jiao	PostDocs	wet	JN	China	M	South/East Asia
+Pibar Kocabas	PostDocs	dry	JN	Turkey	F	Middle East and Iran
+Xiaowei Li	PostDocs	wet	JN	China	M	South/East Asia
+Quanli Liu	PostDocs	wet	JN	China	M	South/East Asia
+Hongzhong Lu	PostDocs	dry	JN	China	M	South/East Asia
+Jiwei Mao	PostDocs	wet	JN	China	M	South/East Asia
+Rui Pereira	PostDocs	dry	JN	Portugal	M	EU
+Nagmeh Poorinmohammad	PostDocs	wet	JN	Iran	F	Middle East and Iran
+Shadi Rahimi	PostDocs	wet	IM	Iran	F	Middle East and Iran
+Paulo Texeira	PostDocs	wet	JN	Portugal	M	EU
+Niek Welkenhuysen	PostDocs	wet	SH	Belgium	M	EU
+Rosemary Yu	PostDocs	wet	JN	Canada	F	USA/CAN/AUS/UK
+Jan Zrimec	PostDocs	dry	AZ	Slovenia	M	EU
+Yun Chen	Docents and Researchers	NA	JN	China	M	South/East Asia
+Eduard Kerkhoven	Docents and Researchers	NA	JN	Netherlands	M	EU
+Joakim Norbeck	Docents and Researchers	NA	JN	Sweden	M	EU
+Verena Siewers	Docents and Researchers	NA	JN	Germany	F	EU
+Xin Chen	Docents and Researchers	wet	DP	China	F	South/East Asia
+Jun Geng	Docents and Researchers	dry	JN	China	F	EU
+Olena Ischkuk	Docents and Researchers	wet	FD	Ukraine	F	East Europe
+Yi Liu	Docents and Researchers	wet	JN	China	F	South/East Asia
+Mikael Molin	Docents and Researchers	wet	SH	Sweden	M	EU
+Santosh Pandit	Docents and Researchers	wet	IM	Nepal	M	South/East Asia
+Lei Shi	Docents and Researchers	wet	IM	China	F	South/East Asia
+Ievgeniia Tiukova	Docents and Researchers	dry	JN	Ukraine	F	East Europe
+Hao Wang	Docents and Researchers	dry	JN	China	M	South/East Asia
+Florian David	Faculty	NA	FD	Germany	M	EU
+Martin Engvist	Faculty	NA	ME	Sweden	M	EU
+Ross King	Faculty	NA	RK	UK	M	USA/CAN/AUS/UK
+Stefan Hohmann	Faculty	NA	SH	Sweden	M	EU
+Christer Larsson	Faculty	NA	CL	Sweden	M	EU
+Ivan Mijakovic	Faculty	NA	IM	Croatia	M	EU
+Jens Nielsen	Faculty	NA	JN	Denmark	M	EU
+Dina Petranovic	Faculty	NA	DP	Croatia	F	EU
+Aleksej Zelezniak	Faculty	NA	AZ	Lithuania	M	EU
+Andrea Clausen Lind	Master student	wet	JN	Sweden	F	EU
+Vykintas Jauniskis	Master student	wet_dry	AZ	Lithuania	M	EU
+Bob Wabeke	Master student	wet	JN	Netherlands	M	EU
+Simone Zaghen	Master student	wet	JN	Italy	M	EU
+Wei Quan	Visiting researcher	wet	JN	China	M	South/East Asia
+Abderahmane Derouiche	Visiting researcher	wet	IM	Algeria	M	Northern Africa
+Guiping Gong	Visiting researcher	wet	JN	China	M	South/East Asia
+Michael Gossing	Visiting researcher	wet	FD	Germany	M	EU
+Boyang Ji	Visiting researcher	dry	JN	Germany	M	EU
+Mariia Kokina	Visiting researcher	wet_dry	AZ	Russia	F	East Europe
+Fariba Roshanzamir	Visiting researcher	dry	JN	Iran	F	Middle East and Iran
+Louis Scott	Visiting researcher	wet	FD	Australia	M	USA/CAN/AUS/UK
+Musa Tartik	Visiting researcher	wet	JN	Turkey	M	Middle East and Iran
+Tao Wei	Visiting researcher	wet	JN	China	M	South/East Asia
+Xin Xu	Visiting researcher	wet	JN	China	M	South/East Asia
+Francesco Gatto	Guests	dry	NA	Italy	M	EU
+Anastasia Krivoruchko	Guests	wet	NA	Canada	F	USA/CAN/AUS/UK
+Nils Nordeman	Guests	dry	NA	Sweden	M	EU
+Stefan Tipmann	Guests	wet	NA	Germany	M	EU
+Angelica Ardehed	Research Engineers	wet	NA	Sweden	F	EU
+Emelie Lindquist	Research Engineers	wet	NA	Sweden	F	EU
+Thomas Svensson	Research Engineers	dry	NA	Sweden	M	EU
+Sergiu Netotea	Research Engineers	dry	NA	Romania	M	EU
+Susanne Reinsbach	Research Engineers	dry	NA	Germany	F	EU
+Jonathan Robinson	Research Engineers	dry	NA	USA	M	USA/CAN/AUS/UK
+Mihail Anton	Research Engineers	dry	NA	Romania	M	EU
+Pierre-Etienne Cholley	Research Engineers	dry	NA	France	M	EU
+Martina Butorac	Admin	NA	NA	Croatia	F	EU
+Erica Dahlin	Admin	NA	NA	Sweden	F	EU
+Gunilla Karlsson	Admin	NA	NA	Sweden	F	EU
+Anne-Lise Kramer	Admin	NA	NA	Norway	F	EU
